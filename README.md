@@ -1,3 +1,3 @@
 # Exercise
-Deploy to following url:
+Deployed to following url:
 https://newest-phonebook.herokuapp.com/
